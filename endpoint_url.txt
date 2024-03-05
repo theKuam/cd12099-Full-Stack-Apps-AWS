@@ -1,1 +1,2 @@
-E
+Endpoint URL:
+http://image-filter-elastic-beanstalk-dev.us-east-1.elasticbeanstalk.com
